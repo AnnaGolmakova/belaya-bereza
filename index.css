@@ -69,13 +69,13 @@ main {
     }
 
     &.text__img--pic1 {
-        background-image: url("/images/image-01.png");
+        background-image: url("/images/image-01.webp");
     }
     &.text__img--pic2 {
-        background-image: url("/images/image-02.png");
+        background-image: url("/images/image-02.webp");
     }
     &.text__img--pic3 {
-        background-image: url("/images/image-03.png");
+        background-image: url("/images/image-03.webp");
     }
 }
 
