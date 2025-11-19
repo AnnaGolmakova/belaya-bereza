@@ -1,0 +1,17 @@
+{
+  "name": "belaya-bereza",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "deploy": "gh-pages -d dist"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "gh-pages": "^6.3.0",
+    "prettier": "^3.6.2",
+    "prettier-plugin-css-order": "^2.1.2",
+    "vite": "^7.0.4"
+  }
+}
