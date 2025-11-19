@@ -4,9 +4,10 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",
+    "dev": "vite serve src",
     "deploy": "gh-pages -d src"
   },
+  "main": "./src/index.html",
   "dependencies": {},
   "devDependencies": {
     "gh-pages": "^6.3.0",
